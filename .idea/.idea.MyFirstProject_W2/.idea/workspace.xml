@@ -12,8 +12,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="206c7039-dc82-469c-87d4-eca7a0795c30" name="Changes" comment="Created the second project">
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Model/Product.cs" afterDir="false" />
+    <list default="true" id="206c7039-dc82-469c-87d4-eca7a0795c30" name="Changes" comment="Added product, implemented second blazor project">
+      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Controller/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorApp1/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724775128920</updated>
-      <workItem from="1724775129950" duration="2034000" />
+      <workItem from="1724775129950" duration="2341000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project COmmit">
       <option name="closed" value="true" />
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724777089098</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added product, implemented second blazor project">
+      <option name="closed" value="true" />
+      <created>1724777193958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724777193958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +233,7 @@
     <MESSAGE value="FIrst send" />
     <MESSAGE value="Working seperate css!" />
     <MESSAGE value="Created the second project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the second project" />
+    <MESSAGE value="Added product, implemented second blazor project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added product, implemented second blazor project" />
   </component>
 </project>
